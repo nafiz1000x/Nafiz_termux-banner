@@ -6,7 +6,7 @@
 
 
 
-📥 Installation
+## 📥 Installation
 ```
 git clone https://github.com/nafiz1000x/Nafiz_termux-banner.git
 cd Nafiz_termux-banner
@@ -14,7 +14,7 @@ bash os.sh
 ```
  
 
-🎥 Video Tutorial
+## 🎥 Video Tutorial
 
 Video Tutorial Link:
 
@@ -26,6 +26,6 @@ Video Tutorial Link:
 
 👨‍💻 Developer
 
-Nafiz Sheikh
+# Nafiz Sheikh
 
 Thanks for using this tool ❤️
