@@ -12,7 +12,8 @@ git clone https://github.com/nafiz1000x/Nafiz_termux-banner.git
 cd Nafiz_termux-banner
 bash os.sh
 ```
- 
+ 👇👇👇👇
+ https://github.com/h4ck3r0/Termux-os.git
 
 ## 🎥 Video Tutorial
 
